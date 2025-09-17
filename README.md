@@ -1,2 +1,2 @@
-# -iris-classifier
-End‑to‑end Iris decision‑tree ML example for AI Fundamentals course assessment
+# iris-classifier
+Machine learning project for AI Fundamentals course: Iris dataset classification using Python.
