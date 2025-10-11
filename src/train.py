@@ -82,16 +82,6 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-import os
-os.makedirs("outputs", exist_ok=True)
-
-y_pred = model.predict(X_test)
-
-import matplotlib.pyplot as plt
-
-plt.title("Confusion Matrix")
-plt.savefig("outputs/confusion_matrix.png")
-plt.close()
+    
 
 
